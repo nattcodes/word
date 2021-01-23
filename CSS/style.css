@@ -200,12 +200,13 @@ ul {
 /*----x----Navigation Bar------x---*/
 
 /*-------Home Page--------*/
-.banner {
-  height: 100vh;
-  background: url(Assets/pexels-shelagh-murphy-1666816.jpg) no-repeat;
+.ban-img {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+}
+.banner {
+  height: 100vh;
   color: rgb(233, 232, 232);
   text-align: center;
   position: relative;
