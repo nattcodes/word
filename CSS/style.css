@@ -202,7 +202,7 @@ ul {
 /*-------Home Page--------*/
 .banner {
   height: 100vh;
-  background: url("/pexels-shelagh-murphy-1666816.jpg") no-repeat;
+  background: url("../pexels-shelagh-murphy-1666816.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
