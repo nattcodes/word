@@ -200,13 +200,12 @@ ul {
 /*----x----Navigation Bar------x---*/
 
 /*-------Home Page--------*/
-.ban-img {
+.banner {
+  height: 100vh;
+  background: url("/pexels-shelagh-murphy-1666816.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-}
-.banner {
-  height: 100vh;
   color: rgb(233, 232, 232);
   text-align: center;
   position: relative;
@@ -467,7 +466,7 @@ h4 {
 
 /*------------Contact--------------*/
 .contact {
-  background: url(Assets/contact.jpg);
+  background: url(/Assets/contact.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
