@@ -38,6 +38,7 @@ h2 {
   font-size: 1.2rem;
   font-family: var(--Kaushan_Script);
   color: rgb(247, 130, 130);
+  z-index: 4;
 }
 .verse-h1 {
   font-size: 2.2rem;
