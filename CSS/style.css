@@ -544,7 +544,7 @@ h4 {
   font-weight: 500;
 }
 .contact-form {
-  width: 40%;
+  width: 80%;
   padding: 40px;
   background: white;
   color: rgb(15, 15, 15);
@@ -707,6 +707,10 @@ h4 {
       width: 100%;
       padding: 0rem;
     }
+    .contact-form{
+      width: 110%;
+      padding: 10px;
+   }
   }
 }
 /*-----x-----View Port-----x-------*/
